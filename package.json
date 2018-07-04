@@ -1,0 +1,18 @@
+{
+  "name": "cl2p",
+  "version": "1.0.0",
+  "description": "Convert LineString to Polygon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cl2p": "index.js"
+  },
+  "author": "@ridixcr",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-progress": "^1.0.5",
+    "minimist": "^1.2.0"
+  }
+}
